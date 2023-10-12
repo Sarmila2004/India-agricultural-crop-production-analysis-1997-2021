@@ -7,6 +7,4 @@ dashboard link 3-https://public.tableau.com/views/dashboard3_16964135623800/Dash
 
 story link 1-https://public.tableau.com/views/InsightsintoIndiasagriculturalcultivation/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
-story link 2-https://public.tableau.com/views/InsightsintoIndiasagriculturalcultivationstory2/Story2?:language=en-US&publish=y&:display_count=n&:origin=viz_share_link
-
-Video Demonstration link - 
+story link 2-https://public.tableau.com/views/InsightsintoIndiasagriculturalcultivationstory2/Story2?:language=en-US&publish=y&:display_count=n&:origin=viz_share_li 
